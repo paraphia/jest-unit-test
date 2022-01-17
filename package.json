@@ -1,0 +1,21 @@
+{
+  "name": "JestJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "joi": "^13.0.2",
+    "supertest": "^6.2.1"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "exrpess": "0.0.1-security"
+  }
+}
